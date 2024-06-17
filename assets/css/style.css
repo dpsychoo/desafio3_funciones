@@ -1,0 +1,43 @@
+#divAzul {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+#divRojo {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+#divVerde {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+#divAmarillo {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+/* 3.3 */
+
+#key {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+
+/* 3.4 */
+
+.nuevoDiv {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin-top: 10px; /* Para un poco de separación entre los divs */
+}
+
